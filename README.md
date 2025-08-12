@@ -1,4 +1,4 @@
-# Pler - Domain Probe & Cloudflare Checker
+# Pler - Domain Probe and Cloudflare Filter Tool
 <img width="1104" height="503" alt="image" src="https://github.com/user-attachments/assets/13220e61-dc9b-4523-988e-5b0151db6f1d" />
 
 

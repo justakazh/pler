@@ -1,5 +1,6 @@
 # Pler - Domain Probe & Cloudflare Checker
-<img width="1106" height="502" alt="image" src="https://github.com/user-attachments/assets/3e08a4ad-30b3-4186-a41c-e95d400d3bdb" />
+<img width="1104" height="503" alt="image" src="https://github.com/user-attachments/assets/13220e61-dc9b-4523-988e-5b0151db6f1d" />
+
 
 **Pler** is a simple yet powerful Python script to check whether a domain is using Cloudflare.  
 It is useful for **bug bounty hunters**, **pentesters**, or **OSINT** purposes, as it can filter results according to your needs.

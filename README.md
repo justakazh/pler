@@ -8,12 +8,13 @@ It is useful for **bug bounty hunters**, **pentesters**, or **OSINT** purposes, 
 ---
 
 ## ✨ Features
-- 🚀 **Multi-threading** → fast domain checks.
-- 🌐 **IPv4 & IPv6 support**.
-- 🎯 **Result filtering** → only IP, only domain, or domain + IP.
-- ☁️ **Cloudflare detection** → quickly identify domains behind Cloudflare.
-- ❓ **Unknown mode** → show domains that cannot be resolved.
-- 📄 **Save output to file** for later use.
+- **Multi-threading** → fast domain checks.
+- **IPv4 & IPv6 support**.
+- **Result filtering** → only IP, only domain, or domain + IP.
+- **Cloudflare detection** → quickly identify domains behind Cloudflare.
+- **Unknown mode** → show domains that cannot be resolved.
+- **Save output to file** for later use.
+- **Silent Mode** 
 
 ---
 

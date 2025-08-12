@@ -59,43 +59,43 @@ python3 pler.py [options]
 
 **Check a single domain**
 ```bash
-python3 pler.py -d example.com
+pler -d example.com
 ```
 
 **Check from a file**
 ```bash
-python3 pler.py -l subdomains.txt
+pler -l subdomains.txt
 ```
 
 **Check via STDIN**
 ```bash
-echo "example.com" | python3 pler.py
-cat subdomains.txt | python3 pler.py
+echo "example.com" | pler
+cat subdomains.txt | pler
 ```
 
 **Show only IP addresses**
 ```bash
-cat subdomains.txt | python3 pler.py -ft ip
+cat subdomains.txt | pler -ft ip
 ```
 
 **Show only domains**
 ```bash
-cat subdomains.txt | python3 pler.py -ft domain
+cat subdomains.txt | pler -ft domain
 ```
 
 **Show only domains using Cloudflare**
 ```bash
-cat subdomains.txt | python3 pler.py -sc
+cat subdomains.txt | pler -sc
 ```
 
 **Show only unknown IPs**
 ```bash
-cat subdomains.txt | python3 pler.py -su
+cat subdomains.txt | pler -su
 ```
 
 **Save results to file**
 ```bash
-cat subdomains.txt | python3 pler.py -ft domain_ip -o result.txt
+cat subdomains.txt | pler -ft domain_ip -o result.txt
 ```
 
 ---

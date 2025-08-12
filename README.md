@@ -30,7 +30,7 @@ pip install -r requirements.txt
 Or install directly from **PyPI** (if published):
 
 ```bash
-pip install pler
+pip install python-pler
 ```
 
 ---
